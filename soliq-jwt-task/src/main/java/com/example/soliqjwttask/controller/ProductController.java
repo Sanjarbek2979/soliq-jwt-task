@@ -3,7 +3,7 @@ package com.example.soliqjwttask.controller;
 import com.example.soliqjwttask.dto.ApiResponse;
 import com.example.soliqjwttask.dto.ProductDto;
 import com.example.soliqjwttask.entity.Product;
-import com.example.soliqjwttask.excaption.Not_Found;
+import com.example.soliqjwttask.exception.Not_Found;
 import com.example.soliqjwttask.repository.ProductRepository;
 import com.example.soliqjwttask.service.ProductService;
 import org.springframework.beans.factory.annotation.Autowired;

@@ -1,4 +1,4 @@
-package com.example.soliqjwttask.excaption;
+package com.example.soliqjwttask.exception;
 
 import lombok.Data;
 import lombok.EqualsAndHashCode;
